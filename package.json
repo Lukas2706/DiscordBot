@@ -1,0 +1,27 @@
+{
+  "name": "bot3",
+  "version": "1.0.0",
+  "description": "Bot2 mit commando",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lukas Kaemper",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord-paginationembed": "^2.1.0",
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "^0.12.3",
+    "distube": "^2.8.18",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.4.0",
+    "node-fetch": "^2.6.1",
+    "novelcovid": "^1.2.6",
+    "static": "^2.0.0",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0",
+    "yt-search": "^2.10.1",
+    "ytdl-core": "^4.9.1"
+  }
+}
